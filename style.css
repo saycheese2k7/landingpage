@@ -33,8 +33,8 @@ div.topbar h1{
 }
 
 #bluelogo{
-    width: 300px;
-    height: auto;
+    width: auto;
+    height: 200px;
     padding: 0px 20px;
     filter: brightness(0) saturate(100%) invert(55%) sepia(99%) saturate(5579%) hue-rotate(217deg) brightness(85%) contrast(85%);
 }
