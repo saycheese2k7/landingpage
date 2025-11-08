@@ -49,17 +49,13 @@ div.in-intro{
     padding: 20px;
 }
 
-.productscardimg{
-    width: 200px;
-    height: auto;
-}
-
 div#products h2{
     text-align: center;
 }
 
 div.prodflex{
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
 }
@@ -72,4 +68,5 @@ div.prodcard{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
